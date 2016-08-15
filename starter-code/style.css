@@ -55,3 +55,7 @@ header {
 p {
 	position: center;
 }
+img {
+	height: 200px;
+	width: 150px;
+}
